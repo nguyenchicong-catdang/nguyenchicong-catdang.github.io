@@ -7,3 +7,6 @@ https://render.com/
 https://supabase.com/
 ## images
 https://cloudinary.com/
+
+## js string extension
+Inline HTML
