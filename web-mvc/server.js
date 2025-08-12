@@ -6,6 +6,9 @@ Bun.serve({
         index: 'index.html'
     },
     routes: {
+        '/': () => {
+            return new Response('/index.html');
+        },
         '/api/hello': () => {
             return Response.json({ message: 'Hello, world!' });
         }
