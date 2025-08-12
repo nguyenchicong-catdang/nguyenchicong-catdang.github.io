@@ -8,6 +8,5 @@ https://supabase.com/
 ## images
 https://cloudinary.com/
 
-## code luu y
-### xóa clone
-rm -rf mvc
+## js string extension
+Inline HTML
